@@ -1,10 +1,6 @@
-
 # 📊 Python Data Analysis & Automated Reporting Pipeline
 
-## 🚀 Descripción del Proyecto
-Este repositorio contiene un pipeline automatizado desarrollado en **Python (Pandas, NumPy, Matplotlib)** enfocado en la limpieza de datos, análisis exploratorio (EDA) de variables cuantitativas y cualitativas, y la generación de reportes ejecutivos automatizados. Diseñado para transformar datos crudos en información lista para la toma de decisiones gerenciales.
-
----
+Pipeline de limpieza de datos, análisis exploratorio (EDA) y automatización de reportes estadísticos usando Python y Pandas.
 
 ## 🛠️ Tecnologías y Librerías Utilizadas
 * **Lenguaje:** Python 3.x
@@ -22,3 +18,17 @@ Este repositorio contiene un pipeline automatizado desarrollado en **Python (Pan
 ├── scripts/               # Scripts modulares en Python para automatización
 ├── outputs/               # Reportes exportados y gráficos generados automáticamente
 └── README.md              # Documentación del proyecto
+
+```
+
+---
+
+## 📈 Vista Previa del Reporte Automatizado
+![Ingresos Totales por Sede](reporte_ingresos_sede.png)
+
+---
+
+## 👤 Autor
+**Stiven Escobar Carabalí**  
+*Data & Business Intelligence Analyst | Jr. Software Developer*  
+[GitHub Profile](https://github.com/stiven-escobar)
